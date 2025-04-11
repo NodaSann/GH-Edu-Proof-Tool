@@ -19,7 +19,7 @@
 1. 下载代码：[https://github.com/NodaSann/GH-Edu-Proof-Tool/](https://github.com/NodaSann/GH-Edu-Proof-Tool/)
 2. 打开 `index.html`
 3. 填写信息 (**姓名和学校要用英文，且要和你的 GitHub 资料一样！** 其他随意~)  例如：
-    * 姓名：San Zhang (和你的 GitHub 名字一样)
+    * 姓名：San Zhang (和你的 GitHub Profile 的 Name 一样)
     * 学校：Tsinghua University (和你的 GitHub 上的学校一样，先去确认)
     * 班级：Class 1
     * 专业：Computer Science
