@@ -12,7 +12,7 @@
 
 ## ➡️  试试看！
 示例站点
-[http://edutool.323424.xyz/](http://edutool.323424.xyz/)
+[https://edutool.323424.xyz/](https://edutool.323424.xyz/)
 
 ## 🛠️  怎么用？
 
